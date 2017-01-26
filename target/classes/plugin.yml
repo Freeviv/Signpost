@@ -1,0 +1,7 @@
+name: Signpost
+main: com.signpost.Signpost
+version: 0.0
+commands:
+  sp_add:
+    description: Adds a new signpost. Right click on a sign after this command to a signpost
+    usage: /sp_add
